@@ -16,3 +16,15 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+header {
+    background-color: deepskyblue;
+}
+
+.navbar {
+    background-color: deepskyblue;
+}
+
+#navbarSupportedContent {
+    text-align: center;
+}
